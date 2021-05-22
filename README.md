@@ -3,7 +3,8 @@
 # Bem vindo ao meu repositório 😃
 
 Atualmente graduado em Sistemas de Informação 🧑‍💻, busco uma oportunidade para atuar como dev Junior. 👨‍💻👨‍💻
-Tenho conhecimento em algumas linguagens de programação e estou estudando e aprendendo novos frameworks front-end.
+Tenho conhecimento em algumas linguagens de programação e estou estudando constantemente para me atualizar.
+Email: allisonvinicius63@gmail.com
 
   ## Linkedin
   <a href="https://www.linkedin.com/in/allison-vinicius-b73a9a147/" target="_blank" rel="nofollow"><img align="center" alt="LinkedIn" width="22px"                  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
@@ -16,6 +17,6 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando e ap
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=javascript&logoColor=0000CD" alt="React"/> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=javascript&logoColor=blueviolet" alt="Php"/> &nbsp; &nbsp;
-  <img src "https://img.shields.io/badge/-allisonvinicius63@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=whitelink=mailto:allisonvinicius63@gmail.com" alt="email" /> &nbsp; &nbsp;
+  
 </p>
 
