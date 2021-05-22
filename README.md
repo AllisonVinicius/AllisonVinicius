@@ -5,7 +5,8 @@
 Atualmente graduado em Sistemas de Informação 🧑‍💻, busco uma oportunidade para atuar como dev Junior. 👨‍💻👨‍💻
 Tenho conhecimento em algumas linguagens de programação e estou estudando e aprendendo novos frameworks front-end.
 
-  #Linkedin <a href="https://www.linkedin.com/in/allison-vinicius-b73a9a147/" target="_blank" rel="nofollow"><img align="center" alt="LinkedIn" width="22px"                  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+  ## Linkedin
+  <a href="https://www.linkedin.com/in/allison-vinicius-b73a9a147/" target="_blank" rel="nofollow"><img align="center" alt="LinkedIn" width="22px"                  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
   
   #### Linguagens, Tecnologias
 <p align="center">
