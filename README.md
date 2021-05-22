@@ -13,8 +13,9 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando cons
   
  <h3>⚙️ &nbsp;back-end</h3>
  
-[Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-[MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+ 
+<img src= "https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js"
+<img src="(https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)"
 <img src="https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=javascript&logoColor=blueviolet" alt="Php"/> &nbsp; &nbsp;
 
   
@@ -26,8 +27,9 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando cons
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />&nbsp; &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=javascript&logoColor=0000CD" alt="React"/> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7"
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 </p>
 
 
