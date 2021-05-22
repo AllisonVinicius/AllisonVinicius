@@ -15,7 +15,7 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando e ap
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />&nbsp; &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=javascript&logoColor=0000CD" alt="React"/> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=javascript&logoColor=00CED1" alt="Php"/> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=javascript&logoColor=blueviolet" alt="Php"/> &nbsp; &nbsp;
 
 </p>
 
