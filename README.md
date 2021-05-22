@@ -16,6 +16,6 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando e ap
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=javascript&logoColor=0000CD" alt="React"/> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=javascript&logoColor=blueviolet" alt="Php"/> &nbsp; &nbsp;
-
+  [![Gmail Badge](https://img.shields.io/badge/-allisonvinicius63@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=black&link=mailto:allisonvinicius63@gmail.com)](mailto:allisonvinicius63@gmail.com)
 </p>
 
