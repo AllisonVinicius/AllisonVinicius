@@ -4,7 +4,7 @@
 
 Atualmente graduado em Sistemas de Informação 🧑‍💻, busco uma oportunidade para atuar como dev Junior. 👨‍💻👨‍💻
 Tenho conhecimento em algumas linguagens de programação e estou estudando constantemente para me atualizar.
-<p> ### Email: allisonvinicius63@gmail.com </p>
+<p> Email: allisonvinicius63@gmail.com </p>
 
   ## Linkedin
   <a href="https://www.linkedin.com/in/allison-vinicius-b73a9a147/" target="_blank" rel="nofollow"><img align="center" alt="LinkedIn" width="22px"                  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
@@ -14,8 +14,8 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando cons
  <h3>⚙️ &nbsp;back-end</h3>
  
 [Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
- <img src="https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=javascript&logoColor=blueviolet" alt="Php"/> &nbsp; &nbsp;
+[MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+<img src="https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=javascript&logoColor=blueviolet" alt="Php"/> &nbsp; &nbsp;
 
   
 <h3>💻 &nbsp;front-end</h3>
@@ -27,7 +27,7 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando cons
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />&nbsp; &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=javascript&logoColor=0000CD" alt="React"/> &nbsp; &nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7"
 </p>
 
 
