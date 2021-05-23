@@ -29,8 +29,8 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando cons
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />&nbsp; &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-87CEFA?style=for-the-badge&logo=typescript&logoColor=0000FF" alt="TypeScript"/> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/React-98FB98?style=for-the-badge&logo=react&logoColor=00CED1" alt="React"/> &nbsp; &nbsp; 
+  <img src="https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=0000FF" alt="TypeScript"/> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/React-363636?style=for-the-badge&logo=react&logoColor=00CED1" alt="React"/> &nbsp; &nbsp; 
 
 
 </p>
