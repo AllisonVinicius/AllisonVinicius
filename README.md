@@ -17,8 +17,9 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando cons
 
 <img src="https://img.shields.io/badge/Php-000080?style=for-the-badge&logo=phpt&logoColor=blueviolet" alt="Php"/> &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/Node.js-006400?style=for-the-badge&logo=node.js&logoColor=blueviolet" alt="node.js"/> &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Mysql-D2691E?style=for-the-badge&logo=mysql&logoColor=red" alt="mysql"/> &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Mongo-2F4F4F?style=for-the-badge&logo=mongo&logoColor=orange" alt="mongo"/> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Mysql-D2691E?style=for-the-badge&logo=mysql&logoColor=0000CD" alt="mysql"/> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Mongo-2F4F4F?style=for-the-badge&logo=mongo&logoColor=008000" alt="mongo"/> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=F0F8FF" alt="laravel"/> &nbsp; &nbsp;
 
   
 <h3>💻 &nbsp;front-end</h3>
@@ -28,8 +29,8 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando cons
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />&nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=0000FF" alt="TypeScript"/> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-FFD700style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-4F4F4F?style=for-the-badge&logo=typescript&logoColor=0000FF" alt="TypeScript"/> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/React-363636?style=for-the-badge&logo=react&logoColor=00CED1" alt="React"/> &nbsp; &nbsp; 
 
 
