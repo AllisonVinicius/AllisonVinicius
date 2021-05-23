@@ -17,14 +17,14 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando cons
 
 <img src="https://img.shields.io/badge/Php-000080?style=for-the-badge&logo=phpt&logoColor=blueviolet" alt="Php"/> &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/Node.js-006400?style=for-the-badge&logo=node.js&logoColor=blueviolet" alt="node.js"/> &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Mysql-323330?style=for-the-badge&logo=mysql&logoColor=red" alt="mysql"/> &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Mongo-323330?style=for-the-badge&logo=mongo&logoColor=orange" alt="mongo"/> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Mysql-D2691E?style=for-the-badge&logo=mysql&logoColor=red" alt="mysql"/> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Mongo-2F4F4F?style=for-the-badge&logo=mongo&logoColor=orange" alt="mongo"/> &nbsp; &nbsp;
 
   
 <h3>💻 &nbsp;front-end</h3>
     
   
-<p align="center">
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />&nbsp; &nbsp;
