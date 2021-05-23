@@ -9,9 +9,9 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando cons
   ## Linkedin
   <a href="https://www.linkedin.com/in/allison-vinicius-b73a9a147/" target="_blank" rel="nofollow"><img align="center" alt="LinkedIn" width="22px"                  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
   
-  #### Linguagens, Tecnologias
+  #### Linguagens
   
- <h3>⚙️ &nbsp;back-end</h3>
+ <h3>⚙️ &nbsp;back-end ⚙️</h3>
  
  
 
@@ -22,7 +22,7 @@ Tenho conhecimento em algumas linguagens de programação e estou estudando cons
 <img src="https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=F0F8FF" alt="laravel"/> &nbsp; &nbsp;
 
   
-<h3>💻 &nbsp;front-end</h3>
+<h3>💻 &nbsp;front-end 💻</h3>
     
   
 
