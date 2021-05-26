@@ -3,7 +3,7 @@
 # Bem vindo ao meu repositório 😃
 
 Atualmente graduado em Sistemas de Informação 🧑‍💻, busco uma oportunidade para atuar como dev Junior. 👨‍💻👨‍💻
-Tenho conhecimento em algumas linguagens de programação e estou estudando constantemente para me atualizar.
+Tenho conhecimento em algumas linguagens de programação e estou estudando constantemente para me atualizar e me aperfeiçoar. Sou bem dedicado e com muita força de vontadeem aprender.
 <p> Email: allisonvinicius63@gmail.com </p>
 
   ## Linkedin
