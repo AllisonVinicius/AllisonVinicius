@@ -13,7 +13,7 @@ Tenho conhecimento nas linguagens abaixo e estudo constantemente para me atualiz
   
  <h3>⚙️ &nbsp;back-end ⚙️</h3>
  
- 
+##conhecimento básico 
 
 <img src="https://img.shields.io/badge/Php-000080?style=for-the-badge&logo=phpt&logoColor=blueviolet" alt="Php"/> &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/Node.js-006400?style=for-the-badge&logo=node.js&logoColor=blueviolet" alt="node.js"/> &nbsp; &nbsp;
