@@ -2,7 +2,7 @@
 
 #  Allison Araújo  💻
 
-Atualmente graduado em Sistemas de Informação 🧑‍💻, busco uma oportunidade para atuar como desenvolvedor. 👨‍💻👨‍💻
+Atualmente graduado em Sistemas de Informação 🧑‍💻, trabalho com front End React💻
 Tenho conhecimento nas linguagens abaixo e estudo constantemente para me atualizar e me aperfeiçoar. Sou bem dedicado e com muita força de vontade em aprender.
 <p> Email: allisonvinicius63@gmail.com </p>
 
