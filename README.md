@@ -7,7 +7,8 @@ Tenho conhecimento nas linguagens abaixo e estudo constantemente para me atualiz
 <p> Email: allisonvinicius63@gmail.com </p>
 
   ## Linkedin
-  <a href="https://www.linkedin.com/in/allison-vinicius-b73a9a147/" target="_blank" rel="nofollow"><img align="center" alt="LinkedIn" width="22px"                  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+
+  <a href="https://www.linkedin.com/in/allison-v-araújo/" target="_blank" rel="nofollow"><img align="center" alt="LinkedIn" width="22px"                  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
   
   #### Linguagens
   
