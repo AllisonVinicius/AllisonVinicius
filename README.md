@@ -35,7 +35,7 @@ Atualmente graduado em Sistemas de Informação 🧑‍💻, trabalho com front 
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-4F4F4F?style=for-the-badge&logo=typescript&logoColor=0000FF" alt="TypeScript"/> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/React-363636?style=for-the-badge&logo=react&logoColor=00CED1" alt="React"/> &nbsp; &nbsp; 
-  <img src="https://img.shields.io/badge/React Testing Library-8B0000?style=for-the-badge&logo=jesto&logoColor=8B0000" alt="jest"/> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/Jest-8B0000?style=for-the-badge&logo=jesto&logoColor=8B0000" alt="jest"/> &nbsp; &nbsp;
 
 </p>
 
