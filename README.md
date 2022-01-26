@@ -1,6 +1,6 @@
 
 
-#  Allison V.Araújo  💻
+ ## <Prazer, sou o Allison V.Araújo  💻 />
 
 Atualmente graduado em Sistemas de Informação 🧑‍💻, trabalho com front End React 💻. Dedicado e Esforçado e sempre buscando aprimorar e adquirir novos conhecimentos e  em busca de desafios e me superar!!!
 <div>
@@ -10,6 +10,7 @@ Atualmente graduado em Sistemas de Informação 🧑‍💻, trabalho com front 
   
 </div>
 
+##
 
 
 ### Contato
@@ -21,19 +22,17 @@ Atualmente graduado em Sistemas de Informação 🧑‍💻, trabalho com front 
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
+  ##
   
-  ### Skills
-   
+  ### Stack!   
  <h3>⚙️ &nbsp;back-end ⚙️</h3>
   
-##conhecimento básico 
-
 <img src="https://img.shields.io/badge/Node.js-006400?style=for-the-badge&logo=node.js&logoColor=blueviolet" alt="node.js"/> &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/Mysql-191970?style=for-the-badge&logo=mysql&logoColor=0000CD" alt="mysql"/> &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/Mongo-006400?style=for-the-badge&logo=mongo&logoColor=008000" alt="mongo"/> &nbsp; &nbsp;
 
 
-
+##
   
 <h3>💻 &nbsp;front-end 💻</h3>
 <div  style="display: inline_block"><br>
