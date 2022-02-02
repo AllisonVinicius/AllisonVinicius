@@ -48,7 +48,11 @@ Atualmente graduado em Sistemas de Informação 🧑‍💻, trabalho com front 
   <img align="center" alt="Alli-CSS" height="65 width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <=>
    <img align="center" alt="Alli-BOOTS" height="65 width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+ <=>
+   <img align="center" alt="Alli-BOOTS" height="65 width="65" src="http://semantic-ui.com/images/logo.png" />
   <=>
+    <img align="center" alt="Alli-BOOTS" height="65 width="65"  src="https://mobx.js.org/assets/mobx.png" />
+    <=>
     <img align="center" alt='Allis-jest' width="65 height="65" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/master/other/octopus.png" />
  
  
