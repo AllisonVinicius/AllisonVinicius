@@ -2,7 +2,7 @@
 
  ## <Prazer, sou o Allison V.Araújo  💻 />
 
-Atualmente graduado em Sistemas de Informação 🧑‍💻, trabalho com front End React 💻. Dedicado e Esforçado e sempre buscando aprimorar e adquirir novos conhecimentos e  em busca de desafios e me superar!!!
+Atualmente graduado em Sistemas de Informação 🧑‍💻, trabalho com front End React Jr💻. Dedicado e Esforçado e sempre buscando aprimorar e adquirir novos conhecimentos e  em busca de desafios e me superar!!!
 <div>
     <a href="https://github.com/AllisonVinicius" />
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=AllisonVinicius&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
