@@ -1,6 +1,6 @@
 
 
- ##   <img align="center" alt="Alli-CSS" height="50" width="75" src="https://user-images.githubusercontent.com/39178001/156087269-5d888a0d-67ea-43cd-b30f-13c2af876b43.jpg" />  <Prazer, sou o Allison V.Araújo  💻 />
+ ##   <img align="center" alt="Alli-CSS" height="60" width="70" src="https://user-images.githubusercontent.com/39178001/156087891-d1cdc322-5719-4279-a260-bc37bf482760.svg" />  <Prazer, sou o Allison V.Araújo  💻 />
 
 - Graduado em Sistemas de Informação - UFMS 🧑‍💻.
 -  Front End React Jr💻. 
