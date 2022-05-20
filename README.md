@@ -3,7 +3,7 @@
  ##   <img align="center" alt="Alli-CSS" height="60" width="70" src="https://user-images.githubusercontent.com/39178001/156087891-d1cdc322-5719-4279-a260-bc37bf482760.svg" />  <Prazer, sou o Allison V.Araújo  💻 />
 
 - Graduado em Sistemas de Informação - UFMS (2020) 🧑‍💻.
--  Front End React Jr💻. 
+-  Front End React 💻. 
 -  Dedicado e Esforçado e sempre buscando aprimorar e adquirir novos conhecimentos!!
 
 
