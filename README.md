@@ -30,11 +30,11 @@
 ##
 <h3>💻 &nbsp;front-end 💻</h3>
 <div  style="display: inline_block"><br>
-    <img align="center" alt="Alli-React" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
+    <img align="center" alt="Alli-React" height="65" width="65" style="border-radius:10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
   <=>
-  <img align="center" alt="Alli-Js" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Alli-Js" height="65" width="65" style="border-radius:50%"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <=>
-  <img align="center" alt="Alli-Ts" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Alli-Ts" height="65" width="65"  style="border-radius:10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <=>
 
   <img align="center" alt="Alli-HTML" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -53,5 +53,13 @@
 </div>
       
 
-  
+## 
+<h3>💻 &nbsp;back-end 💻</h3>
+
+<div  style="display: inline_block"><br>
+    <img align="center" alt="Alli-Nodejs" height="65" width="65" src="https://user-images.githubusercontent.com/39178001/174504912-2cf86d46-93bc-4f1c-92d6-e143816276f6.svg" /> 
+  <=>  
+  <img align="center" alt="Alli-Nodejs" height="65" width="65" style="border-radius:50%" src="https://user-images.githubusercontent.com/39178001/174504964-16722270-84b0-4c0c-a702-5536815c6c90.svg" />
+     <=>
+  <img align="center" alt="Alli-Mongo" height="65" width="65" src="https://user-images.githubusercontent.com/39178001/174505217-c2728ce3-613b-4df9-9cdb-f7bf9d74e856.svg" />
 
