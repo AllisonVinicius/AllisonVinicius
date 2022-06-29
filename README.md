@@ -26,6 +26,11 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/AllisonVinicius/count.svg" />  
+</p>
+
  
 ##
 <h3>💻 &nbsp;front-end 💻</h3>
@@ -62,4 +67,6 @@
   <img align="center" alt="Alli-Nodejs" height="65" width="65" style="border-radius:50%" src="https://user-images.githubusercontent.com/39178001/174504964-16722270-84b0-4c0c-a702-5536815c6c90.svg" />
      <=>
   <img align="center" alt="Alli-Mongo" height="65" width="65" src="https://user-images.githubusercontent.com/39178001/174505217-c2728ce3-613b-4df9-9cdb-f7bf9d74e856.svg" />
+
+
 
