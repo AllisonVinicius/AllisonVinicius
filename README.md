@@ -55,11 +55,17 @@
     <img align="center" alt='Allis-jest' width="65 height="65" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/master/other/octopus.png" />
 <=>
  <img align="center" alt="Alli-Js" height="65" width="65" src="https://user-images.githubusercontent.com/39178001/162860046-b21b307f-bb4f-404e-a7cc-afb8c9334d7c.png" />
+ 
+ <img align="center" alt="Alli-Js" height="65" width="65" src="https://user-images.githubusercontent.com/39178001/181936120-20be5df2-f7d7-4362-9df5-47dd814fdc86.png" />
+ 
+ 
 </div>
+
       
 
 ## 
 <h3>💻 &nbsp;back-end 💻</h3>
+<h5> Atualmente estudo nodeJs
 
 <div  style="display: inline_block"><br>
     <img align="center" alt="Alli-Nodejs" height="65" width="65" src="https://user-images.githubusercontent.com/39178001/174504912-2cf86d46-93bc-4f1c-92d6-e143816276f6.svg" /> 
